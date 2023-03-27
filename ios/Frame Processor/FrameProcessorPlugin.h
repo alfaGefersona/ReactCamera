@@ -53,7 +53,7 @@ objc_name : NSObject<FrameProcessorPluginBase>                                  
 @end                                                                                \
 @implementation objc_name (FrameProcessorPlugin)                                    \
                                                                                     \
-+(void)load                                                                          \
++(void)load                                                                         \
 {                                                                                   \
   [FrameProcessorPluginRegistry addFrameProcessorPlugin:@"__" @ #name callback:^id(Frame* frame, NSArray<id>* args) {    \
     return [objc_name callback:frame withArgs:args];                               \

@@ -83,3 +83,4 @@ If you're integrating VisionCamera in a production app, consider [funding this p
 <br />
 
 #### 🚀 Get started by [setting up permissions](https://react-native-vision-camera.com/docs/guides/)!
+# ReactCamera

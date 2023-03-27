@@ -45,5 +45,5 @@ function App() {
 ### Adopting at scale
 
 
-#### 🚀 Get started by [setting up permissions](https://react-native-vision-camera.com/docs/guides/)!
+####  Get started by [setting up permissions](https://react-native-vision-camera.com/docs/guides/)!
 # React Camera

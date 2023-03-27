@@ -75,7 +75,7 @@ class FrameProcessorRuntimeManager(context: ReactApplicationContext, frameProces
       try {
         view = ctx?.currentActivity?.findViewById<CameraView>(viewId)
       } catch(e: Exception) {
-        Log.d("Catch in FrameProcessorRuntimeManager.kt Line: 78")
+        Log.e(e.toString(),"Catch in FrameProcessorRuntimeManager.kt Line: 78")
       }
     }
     Log.d(TAG,  if (view != null) "Found view $viewId!" else "Couldn't find view $viewId!")

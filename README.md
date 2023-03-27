@@ -2,37 +2,9 @@
   <img src="./docs/static/img/banner.svg" width="100%" />
 </a>
 
-<h1 align="center">Vision Camera</h1>
+<h1 align="center">React Camera </h1>
 
-<div align="center">
-  <img src="docs/static/img/11.png" width="50%">
-  <br />
-  <br />
-  <blockquote><b>📸 The Camera library that sees the vision.</b></blockquote>
-  <pre align="center">npm i <a href="https://www.npmjs.com/package/react-native-vision-camera">react-native-vision-camera</a><br/>npx pod-install                 </pre>
-  <a align="center" href='https://ko-fi.com/F1F8CLXG' target='_blank'>
-    <img height='36' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi2.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
-  </a>
-  <br/>
-  <a align="center" href="https://github.com/mrousavy?tab=followers">
-    <img src="https://img.shields.io/github/followers/mrousavy?label=Follow%20%40mrousavy&style=social" />
-  </a>
-  <br />
-  <a align="center" href="https://twitter.com/mrousavy">
-    <img src="https://img.shields.io/twitter/follow/mrousavy?label=Follow%20%40mrousavy&style=social" />
-  </a>
-</div>
 
-<br/>
-<br/>
-
-<div>
-  <img align="right" width="35%" src="docs/static/img/example.png">
-</div>
-
-### ‼️‼️‼️‼️‼️ ✨ VisionCamera V3 ‼️‼️‼️‼️‼️
-
-**See [this discussion](https://github.com/mrousavy/react-native-vision-camera/issues/1376) for the latest upcoming version of VisionCamera**
 
 ### Documentation
 
@@ -72,15 +44,6 @@ function App() {
 
 ### Adopting at scale
 
-<a href="https://github.com/sponsors/mrousavy">
-  <img align="right" width="160" alt="This library helped you? Consider sponsoring!" src=".github/funding-octocat.svg">
-</a>
-
-VisionCamera is provided _as is_, I work on it in my free time.
-
-If you're integrating VisionCamera in a production app, consider [funding this project](https://github.com/sponsors/mrousavy) and <a href="mailto:me@mrousavy.com?subject=Adopting VisionCamera at scale">contact me</a> to receive premium enterprise support, help with issues, prioritize bugfixes, request features, help at integrating VisionCamera and/or Frame Processors, and more.
-
-<br />
 
 #### 🚀 Get started by [setting up permissions](https://react-native-vision-camera.com/docs/guides/)!
-# ReactCamera
+# React Camera
